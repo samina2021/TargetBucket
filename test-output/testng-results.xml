@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T18:56:51 EST" name="Default suite" finished-at="2023-11-14T18:56:51 EST" duration-ms="81">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T18:56:51 EST" name="Default test" finished-at="2023-11-14T18:56:51 EST" duration-ms="81">
+      <class name="com.target.webDriver.LogInTest">
+        <test-method signature="logintest()[pri:0, instance:com.target.webDriver.LogInTest@293a5bf6]" started-at="2023-11-14T18:56:51 EST" name="logintest" finished-at="2023-11-14T18:56:51 EST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- com.target.webDriver.LogInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
